@@ -1,6 +1,4 @@
-var lastname = "Lamotte";
-var name = "fabien";
-var city = "Tergnier";
-console.log("Nom: " + lastname);
-console.log("Prénom: " + name);
-console.log("Ville: " + city);
+var lastname = 'Lamotte';
+var firstname = 'fabien';
+var city = 'Tergnier';
+alert('Nom : ' + lastname + '\n Prénom : ' + firstname + '\n Ville : ' + city);
